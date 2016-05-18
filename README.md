@@ -4,6 +4,8 @@
 
 # Fórum
 
+[![Join the chat at https://gitter.im/FocusMeetups/forum](https://badges.gitter.im/FocusMeetups/forum.svg)](https://gitter.im/FocusMeetups/forum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Forúm para centralização de conhecimento dos desenvolvedores do Grupo Focusnetworks.
 
 ## Propósito e Organização
